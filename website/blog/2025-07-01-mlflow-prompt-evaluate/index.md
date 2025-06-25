@@ -1,3 +1,4 @@
+---
 title: "MLflow Prompt Registry and Evaluate for LLM-based OCR"
 slug: mlflow-prompt-evaluate
 tags: [evaluate, prompt-registry, ocr]
@@ -99,7 +100,3 @@ Our data consists of scanned documents and their corresponding text extracted as
 ## Conclusion and Next Steps
 
 ## Further Reading
-<<<<<<< HEAD
-
-=======
->>>>>>> 81baa4c (Add intro content to blog, along with title image and other tweaks)
